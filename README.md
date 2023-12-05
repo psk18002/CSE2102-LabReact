@@ -15,7 +15,7 @@ Instructions:
 4) Download the repository's contents.
 5) Place the contents into a desired folder/destination.
 6) Navigate to the aforesaid folder/destination via command prompt/terminal.
-7) Run the React application on an open port via the command:
+7) Run the React application on an open port via the command on a development server:
 
        npm start
 
