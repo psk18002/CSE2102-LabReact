@@ -7,7 +7,10 @@ class Quiz extends React.Component {
     render() {
         return (
             <>
-              <QuizHandler />
+            <div data-testid="quiz-handler">
+                <h1>Quiz</h1>
+                <QuizHandler />
+            </div>
             </>
         );
     }

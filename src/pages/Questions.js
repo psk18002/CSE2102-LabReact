@@ -7,8 +7,10 @@ class Questions extends React.Component {
     render() {
         return (
             <>
+            <div data-testid="question-handler">
               <h1>Questions Page</h1>
               <QuestionHandler />
+            </div>
             </>
         );
     }
