@@ -2,7 +2,7 @@
 
 The quiz system implemented via React is a simple system that has a hard-coded collection of twenty questions, and a randomized order of ten questions to be collated for the purpose of a quiz.
 
-Aside for the 'first principles' libraries, templates, and patterns provided for this lab, the additional use of the 'useState' module from the 'React' library is utilized for the purpose of alternating between simple state changes. Comparatively, the 'useReducer' module facilitates more complex state changes.
+Aside for the 'first principles' libraries, templates, and patterns provided for this lab, the additional use of the 'useState' module from the 'React' library is utilized for the purpose of alternating between simple state changes. Comparatively, the 'useReducer' module facilitates more complex state changes. Additionally, the inclusion of the 'render' module from the '@testing-library/react' is used to emulate and test the rendering of the DOM and to identify certain elements within the model in order to test proper rendering.
 
 Instructions:
 
